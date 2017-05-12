@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.springframework.beans-3.2.0.release">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repo/org.springframework.beans-3.2.0.release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

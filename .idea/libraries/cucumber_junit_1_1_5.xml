@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cucumber-junit-1.1.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repo/cucumber-junit-1.1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/repo/org.springframework.beans-3.2.0.release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
